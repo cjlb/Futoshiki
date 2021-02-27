@@ -1,0 +1,2 @@
+# Futoshiki
+A java implementation of a Futoshiki game, similar to Sudoku, written using the GUI library JavaFX. Test driven development (TDD) was used                                      throughout the creation process. The program offers hints and there is an option to solve the full grid using brute force calculations. Numbers are selected by clicking on individual buttons and any violations are highlighted.
